@@ -1,0 +1,8 @@
+Package: uni-os-release
+Version: PKG_VER
+Architecture: all
+Maintainer: Yamato Tanikawa <kanikama_pc@outlook.jp>
+Depends: grub2-common
+Section: unknown
+Priority: optional
+Description: Configurate uni-os release version.

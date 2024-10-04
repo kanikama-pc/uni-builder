@@ -1,0 +1,12 @@
+Package: calamares-settings-uni
+Version: PKG_VER
+Architecture: all
+Maintainer: Yamato Tanikawa <kanikama_pc@outlook.jp>
+Depends: calamares, cryptsetup, keyutils, qml-module-qtquick-window2, qml-module-qtquick2, grub2-common, grub-theme-link
+Conflicts: calamares-settings-debian
+Provides: calamares-settings
+Section: utils
+Priority: optional
+Description: Calamares settings for uni-os
+ Created with reference to:
+ https://salsa.debian.org/live-team/calamares-settings-debian-packaging

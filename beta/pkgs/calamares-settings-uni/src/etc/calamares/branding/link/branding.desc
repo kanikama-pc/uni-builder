@@ -1,0 +1,32 @@
+---
+componentName: link
+welcomeStyleCalamares: false
+welcomeExpandingLogo: true
+windowExpanding: normal
+windowSize: 800px,520px
+windowPlacement: center
+
+strings:
+    productName:         uni-os
+    shortProductName:    uni-os
+    version:             OS_VER (CODE_NAME)
+    shortVersion:        OS_VER
+    versionedName:       uni-os OS_VER (CODE_NAME)
+    shortVersionedName:  uni-os OS_VER
+    bootloaderEntryName: uni-os
+
+images:
+    productLogo:         "uni-link.png"
+    productIcon:         "uni-link.png"
+    productWelcome:      "welcome.png"
+    # productWallpaper:  "wallpaper.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#2c3133"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#4d7079"
+   sidebarTextSelect:    "#292F34"
+
+slideshowAPI: 2
